@@ -1,0 +1,27 @@
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+fieldset{
+  border-radius: 4%;
+  font-size: 100%;
+}
+ul{
+  list-style-type: none;
+  padding: 0; /* hapus padding default pada ul */
+}
+li{
+  margin: 16% 10%; /* atur jarak antara setiap item daftar */
+}
+a{
+  font-weight: bold;
+  text-decoration: none;
+  color: #000000;
+  display: flex;
+}
+a:hover{
+  text-decoration: underline;
+}
+.fa-brands{
+  font-size: 128%; /* ukuran ikon Font Awesome */
+  margin-right: 10%; /* atur jarak antara ikon dengan teks */
+}

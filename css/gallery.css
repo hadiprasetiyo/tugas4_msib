@@ -1,0 +1,10 @@
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.gallery {
+  margin: 3%;
+}
+.fa-solid{
+  float: right; /* menggeser icon disebelah kanan */
+  font-size: 130%; /* ukuran icon */
+}

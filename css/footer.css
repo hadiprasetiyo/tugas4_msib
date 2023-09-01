@@ -1,0 +1,16 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #F0D27F;
+  overflow: hidden;
+}
+.footer {
+  text-align: center;
+  color: #000000;
+}
+.footer a {
+  color: #906126; /* warna tautan */
+  text-decoration: none;
+}
+.footer a:hover {
+  text-decoration: underline;
+}

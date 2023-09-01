@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.banner-container {
+  width: 100%;
+  overflow: hidden;
+}
+.banner-img {
+  width: 100%;
+  display: block;
+}
